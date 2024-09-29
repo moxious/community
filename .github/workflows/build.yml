@@ -4,9 +4,7 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
@@ -34,3 +32,5 @@ jobs:
         run: |
           pip install pytest pytest-cov
           pytest test/tests.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
+      - name: Generate Media List
+        run: python generate.py
