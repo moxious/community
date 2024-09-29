@@ -1,6 +1,7 @@
 import os
 from datetime import datetime
 import subprocess
+from slugify import slugify
 
 def generate_markdown(basedir, title, content):
     # Prepare the filename with the required Jekyll format (YYYY-MM-DD-title.md)
@@ -39,7 +40,7 @@ def git_commit_and_push(filename, commit_message="Add new post"):
 
 def get_media():
     import json
-    with open(os.path.join(os.path.dirname(__file__), 'media.json')) as f:
+    with open(os.path.join(os.path.dirname(__file__), '../media.json')) as f:
         return json.load(f)
 
 def generate_media_markdown():
@@ -53,8 +54,15 @@ def generate_media_markdown():
         type = m["type"]
         author = m.get("author", "Unknown")
         markdown = markdown + f"## {name}\n\n[LINK]({url})\n\nType: {type}, Author: {author}\n\nSummary: {summary}\n\n"
+
+        slug = slugify(name)
+
+        if os.path.isfile(os.path.join(os.path.dirname(__file__), f'../media/{slug}.md')):
+            markdown = markdown + f'[Link to full transcript]({slug}.md)\n\n'
     
-    path = generate_markdown_file("media/media-list.md", markdown)
+    path = generate_markdown_file(
+        os.path.join(os.path.dirname(__file__), '../media/media-list.md'),
+        markdown)
     return git_commit_and_push(path, "Add new media post")
 
 if __name__ == "__main__":

@@ -33,4 +33,4 @@ jobs:
           pip install pytest pytest-cov
           pytest test/tests.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
       - name: Generate Media List
-        run: python generate.py
+        run: python src/generate.py
