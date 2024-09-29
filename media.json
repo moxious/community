@@ -19,5 +19,12 @@
         "author": "moxious",
         "url": "https://youtu.be/gKvXsLUInjs",
         "summary": "David Allen discusses the 90-9-1 rule (Jakob Nielsen, 2006) and how it applies to online communities.  This is a discussion & analysis video intended to act as an input to the community book. The original post on NNGroup being discussed can be found here: https://www.nngroup.com/articles/participation-inequality/"
+    },
+    {
+        "name": "Learning in Public: How to speed up your learning and benefit the OSS community, too",
+        "type": "blog",
+        "author": "moxious",
+        "url": "https://grafana.com/blog/2023/09/22/learning-in-public-how-to-speed-up-your-learning-and-benefit-the-oss-community-too/",
+        "summary": "The blog post emphasizes the importance of 'learning in public' in open source software (OSS) communities, which involves openly sharing knowledge, mistakes, and questions to facilitate community-driven growth and learning. This approach builds trust, accelerates learning, and fosters a supportive environment, although it can be challenging due to fears like imposter syndrome. The alternatives—being a silent learner or projecting an unapproachable expert image—are less effective for both personal growth and community development."
     }
 ]
