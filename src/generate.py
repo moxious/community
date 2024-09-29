@@ -58,7 +58,7 @@ def generate_media_markdown():
         slug = slugify(name)
 
         if os.path.isfile(os.path.join(os.path.dirname(__file__), f'../media/{slug}.md')):
-            markdown = markdown + """[Link to full transcript](media/{slug}.md)\n\n"""
+            markdown = markdown + f'[Link to full transcript]({slug}.md)\n\n'
     
     path = generate_markdown_file(
         os.path.join(os.path.dirname(__file__), '../media/media-list.md'),

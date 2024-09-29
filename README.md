@@ -31,6 +31,10 @@ add it to our list of media for later summarization.
 
 Check out the [Media List](media/media-list.md) which is automatically updated.
 
+As I add new videos, notes, and blogs, they can be automatically summarized and 
+transcripts made, so that we can keep running text of the information we have 
+captured, without re-watching videos or re-reading every post.
+
 ## Wait, how are we going to write the book?
 
 In phases. Here's the initial plan.  Phase 0 is already complete!
