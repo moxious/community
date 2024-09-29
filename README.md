@@ -5,6 +5,8 @@ I have an idea to write a book about communities, both in the Open Source world,
 Rather than going off and writing the book, I want the process of generating and gathering ideas to take
 advantage of community and to be participatory from the beginning.
 
+[![Introduction to this repository](https://img.youtube.com/vi/j36lhnAiJ0g/0.jpg)](https://youtu.be/j36lhnAiJ0g)
+
 ## Contribute
 
 If you have done a talk, blog post, video, or anything else about community, I want to know about it. You can
