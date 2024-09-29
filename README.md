@@ -5,7 +5,7 @@ I have an idea to write a book about communities, both in the Open Source world,
 Rather than going off and writing the book, I want the process of generating and gathering ideas to take
 advantage of community and to be participatory from the beginning.
 
-Here's a two minute introductory video about what this repository is:
+Two minute introductory video about this repository:
 
 [![Introduction to this repository](https://img.youtube.com/vi/j36lhnAiJ0g/1.jpg)](https://youtu.be/j36lhnAiJ0g)
 
@@ -14,6 +14,8 @@ Here's a two minute introductory video about what this repository is:
 [Have a look at the Community topic!](topics/community.md)
 
 ## Contribute
+
+Everything in this repo is draft, pull requests are welcome to add raw markdown content, and anything else.
 
 If you have done a talk, blog post, video, or anything else about community, I want to know about it. You can
 contribute that by opening a pull request to add that item to `media.json`. If you are in the devrel world, if you are
