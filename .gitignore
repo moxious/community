@@ -1,3 +1,5 @@
 venv
 junit
 *.pyc
+.env
+*.mp4
