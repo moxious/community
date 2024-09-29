@@ -11,6 +11,13 @@
         "type": "video",
         "author": "moxious",
         "url": "https://www.youtube.com/watch?v=TAHsLFW0tzM",
-        "summary": "David Chapman (Meaningness) published an article on the evolution of subcultures and different personas that develop when this happens. This video summarizes and analyzes that with an eye towards broader community issues. The original blog can be found at https://meaningness.com/geeks-mops-sociopaths"
+        "summary": "David Allen discusses David Chapman (Meaningness) article on the evolution of subcultures and different personas that develop when this happens. This video summarizes and analyzes that with an eye towards broader community issues. The original blog can be found at https://meaningness.com/geeks-mops-sociopaths"
+    },
+    {
+        "name": "The 90-9-1 Rule for Participation Inequality in Social Media and Online Communities",
+        "type": "video",
+        "author": "moxious",
+        "url": "https://youtu.be/gKvXsLUInjs",
+        "summary": "David Allen discusses the 90-9-1 rule (Jakob Nielsen, 2006) and how it applies to online communities.  This is a discussion & analysis video intended to act as an input to the community book. The original post on NNGroup being discussed can be found here: https://www.nngroup.com/articles/participation-inequality/"
     }
 ]
