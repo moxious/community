@@ -13,10 +13,9 @@ def generate_markdown(basedir, title, content):
 def generate_markdown_file(filepath, content):
     # Write the file with front matter and content
     with open(filepath, 'w') as file:
-        file.write(f"---\n")
+        file.write("---\n")
         file.write(f"date: {datetime.now().isoformat()}\n")
-        file.write(f"layout: post\n")
-        file.write(f"---\n\n")
+        file.write("---\n\n")
         file.write(content)
 
     print(f"Generated {filepath}")
