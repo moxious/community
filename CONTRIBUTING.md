@@ -34,3 +34,7 @@ This is going to be an open source repository, so we want only things which:
 If you are the author, please identify yourself in the PR. If you are not, it would help to merge your PR
 to have the author's permission, so they know what is happening.
 
+## What can I **not** contribute?
+
+1. Copyrighted books whose full text is not online
+2. Works without the author's permission (these will be removed on request)

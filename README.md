@@ -1,5 +1,5 @@
 # Let's Write a Book About Community Together
-
+z
 I have an idea to write a book about communities, both in the Open Source world, and also in a much broader sense.
 
 Rather than going off and writing the book, I want the process of generating and gathering ideas to take
