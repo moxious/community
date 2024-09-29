@@ -13,7 +13,7 @@ Two minute introductory video about this repository:
 
 [Have a look at the Community topic!](topics/community.md)
 
-## Contribute
+## Contribute Something You've Already Written
 
 Everything in this repo is draft, pull requests are welcome to add raw markdown content, and anything else.
 
@@ -22,6 +22,11 @@ contribute that by opening a pull request to add that item to `media.json`. If y
 a champion of someone else's open source community, or if you admire a creator, please add their stuff.
 
 For more details, please see  [contributing to this repo](CONTRIBUTING.md)
+
+## Be Interviewed: Contribute What's In Your Head
+
+If you are a community professional, I am interested in talking to you. [Please contact me here](mailto:allen.m.david@gmail.com) and let's talk. I would want to interview you on a zoom call for a casual chat. That video is going to end up posted, and I would
+add it to our list of media for later summarization.
 
 ## What do we have so far?
 

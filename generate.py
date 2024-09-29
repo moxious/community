@@ -54,7 +54,7 @@ def generate_media_markdown():
         author = m.get("author", "Unknown")
         markdown = markdown + f"## {name}\n\n[LINK]({url})\n\nType: {type}, Author: {author}\n\nSummary: {summary}\n\n"
     
-    path = generate_markdown_file("_media/media-list.md", markdown)
+    path = generate_markdown_file("media/media-list.md", markdown)
     return git_commit_and_push(path, "Add new media post")
 
 if __name__ == "__main__":
