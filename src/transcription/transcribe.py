@@ -2,9 +2,8 @@ import logging
 import json
 import whisper
 import os
-import sys
 from pytubefix import YouTube
-from pytubefix.cli import on_progress
+# from pytubefix.cli import on_progress
 from openai import OpenAI
 from dotenv import dotenv_values
 from slugify import slugify
