@@ -23,6 +23,8 @@ def generate_markdown_file(filepath, content):
     return filepath
 
 def git_commit_and_push(filename, commit_message="Add new post"):
+    subprocess.run(['git', 'config', '--global', 'user.email', 'GithubAction@nowhere.com'])
+    subprocess.run(['git', 'config', '--global', 'user.name', 'Github Action'])
     subprocess.run(['git', 'add', filename])
     subprocess.run(['git', 'commit', '-m', commit_message + ' [skip ci]'])
     subprocess.run(['git', 'push'])
