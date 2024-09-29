@@ -1,4 +1,4 @@
-# Community
+# Let's Write a Book About Community Together
 
 I have an idea to write a book about communities, both in the Open Source world, and also in a much broader sense.
 
@@ -19,7 +19,7 @@ For more details, please see  [contributing to this repo](CONTRIBUTING.md)
 
 ## Wait, how are we going to write the book?
 
-In phases. Here's the initial plan:
+In phases. Here's the initial plan.  Phase 0 is already complete!
 
 * **Phase 0: Initial Publishing**: get this idea out there, set the repo up with Github Pages so people can browse everything we subsequently do on the web.
 * **Phase 1: Gather The Good Takes**: ask people to surface the best resources. Who had the smart takes? Let us know!
