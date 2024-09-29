@@ -1,11 +1,10 @@
 # Let's Write a Book About Community Together
 
-I have an idea to write a book about communities, both in the Open Source world, and also in a much broader sense.
+I want to write a book about communities, both in the Open Source world, and also in a much broader sense. Books like this already exist, but I don't want to write another one; I want to take advantage of community to write a better one. I want to make one that is 
+participatory and open source from the start, free for everyone, forever. I don't want a fancy dead-tree book, but one that can evolve
+as we improve our practice.
 
-Rather than going off and writing the book, I want the process of generating and gathering ideas to take
-advantage of community and to be participatory from the beginning.
-
-Two minute introductory video about this repository:
+Video introduction:
 
 [![Introduction to this repository](https://img.youtube.com/vi/j36lhnAiJ0g/1.jpg)](https://youtu.be/j36lhnAiJ0g)
 
@@ -30,7 +29,7 @@ add it to our list of media for later summarization.
 
 ## What do we have so far?
 
-Check out the [Media List](_media/media-list.md) which is automatically updated.
+Check out the [Media List](media/media-list.md) which is automatically updated.
 
 ## Wait, how are we going to write the book?
 
