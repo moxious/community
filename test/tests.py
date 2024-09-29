@@ -5,7 +5,7 @@ def reality_operational(x):
     return x == x
 
 def test_reality_operational():
-    assert reality_operational(100) == True
+    assert reality_operational(100) is True
 
 def get_media():
     import json
