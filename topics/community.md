@@ -33,9 +33,22 @@ Lastly, it’s essential to understand that communities often overlap, and we ca
 
 ## Why Care?
 
-Having a community oriented model helps adoption of any new idea, because community helps empower people within the scope of their common cause. You want to create a situation where they can get started right away with a low barrier to entry. That is why people in treating the community well – such as facilitating community events, answering  questions, mentoring, even speaking at conferences, etc. In return community members take the journey of being passive members to hopefully becoming community champions. 
+If you know what your common cause is, you should care about community because it's how that common cause
+spreads across people. You may want to create a situation where people can get started with a software product
+with a low barrier to entry, you might be a social activist, a D&D player, or even a member of a
+spiritual community.
 
-Simply put: pay it forward!
+You should care about your community and treating it well, because that's how your cause spreads.
+
+Imagine our common cause is that we love Dungeons & Dragons.
+
+We treat our communities well by facilitation events, answering questions, mentoring, and speaking. Community members
+in turn take the journey of starting out as passive members barely aware that there is a D&D game in their town,
+all the way up to (hopefully) one day being a champion of their local community. 
+
+**Everybody wins because there are more people to play with**.
+
+![Pay it Forward](img/pay-it-forward.jpg)
 
 ## Increasing Contributions
 
