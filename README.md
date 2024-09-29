@@ -9,7 +9,7 @@ Here's a two minute introductory video about what this repository is:
 
 [![Introduction to this repository](https://img.youtube.com/vi/j36lhnAiJ0g/1.jpg)](https://youtu.be/j36lhnAiJ0g)
 
-[![What do you mean by community?]https://imgflip.com/i/952v09](topics/community.md)
+[![What do you mean by community?](https://imgflip.com/i/952v09)](topics/community.md)
 
 Click the Fry for more information.
 
