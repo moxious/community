@@ -1,6 +1,5 @@
 ---
-date: 2024-09-29T16:49:24.010043
-layout: post
+date: 2024-09-29T18:05:12.134516
 ---
 
 ## Community Idea Introduction
@@ -34,4 +33,12 @@ Summary: David Allen discusses the 90-9-1 rule (Jakob Nielsen, 2006) and how it 
 Type: blog, Author: moxious
 
 Summary: The blog post emphasizes the importance of 'learning in public' in open source software (OSS) communities, which involves openly sharing knowledge, mistakes, and questions to facilitate community-driven growth and learning. This approach builds trust, accelerates learning, and fosters a supportive environment, although it can be challenging due to fears like imposter syndrome. The alternatives—being a silent learner or projecting an unapproachable expert image—are less effective for both personal growth and community development.
+
+## Brief overview of Richard Bartlett's Model of Microsoldarity
+
+[LINK](https://youtu.be/KmrPkqrRIIE)
+
+Type: video, Author: moxious
+
+Summary: Microsolidarity is a community-building practice. We're weaving the social fabric that underpins shared infrastructure. The first objective of microsolidarity is to create structures for belonging. We are stitching new kinship networks to shift us out of isolated individualism into a more connected way of being. Why? Because belonging is a superpower: were more courageous & creative when we 'find our people'.
 
