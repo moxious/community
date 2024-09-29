@@ -23,6 +23,10 @@ a champion of someone else's open source community, or if you admire a creator, 
 
 For more details, please see  [contributing to this repo](CONTRIBUTING.md)
 
+## What do we have so far?
+
+Check out the [Media List](_media/media-list.md) which is automatically updated.
+
 ## Wait, how are we going to write the book?
 
 In phases. Here's the initial plan.  Phase 0 is already complete!
