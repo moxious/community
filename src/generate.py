@@ -1,6 +1,7 @@
 import os
 from datetime import datetime
 import subprocess
+from slugify import slugify
 
 def generate_markdown(basedir, title, content):
     # Prepare the filename with the required Jekyll format (YYYY-MM-DD-title.md)
@@ -53,6 +54,11 @@ def generate_media_markdown():
         type = m["type"]
         author = m.get("author", "Unknown")
         markdown = markdown + f"## {name}\n\n[LINK]({url})\n\nType: {type}, Author: {author}\n\nSummary: {summary}\n\n"
+
+        slug = slugify(name)
+
+        if os.path.isfile(os.path.join(os.path.dirname(__file__), f'../media/{slug}.md')):
+            markdown = markdown + """[Link to full transcript](media/{slug}.md)\n\n"""
     
     path = generate_markdown_file(
         os.path.join(os.path.dirname(__file__), '../media/media-list.md'),
