@@ -9,6 +9,8 @@ from dotenv import dotenv_values
 from slugify import slugify
 
 config = dotenv_values(".env")
+logging.basicConfig()
+logging.root.setLevel(logging.NOTSET)
 log = logging.getLogger(__name__)
 
 def get_media():
@@ -106,6 +108,7 @@ if __name__ == "__main__":
 
         if os.path.isfile(json_path(slug)) and os.path.isfile(markdown_path(slug)):
             log.info("Skipping %s, already processed" % slug)
+            continue
 
         if m['type'] != "video":
             log.info("Skipping %s, not a video" % slug)
